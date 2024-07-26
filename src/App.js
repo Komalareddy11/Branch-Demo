@@ -1,4 +1,6 @@
-
+import Attendence from "./Attendence";
+import Classes from "./Classes";
+import Placements from "./placements";
 
 function App() {
   return (
@@ -8,6 +10,7 @@ function App() {
     <Classes/>
      
        <Attendence/>
+       <Placements />
       
     </h1>
     </>
